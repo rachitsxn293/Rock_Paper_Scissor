@@ -4,7 +4,7 @@ Below is an updated README template that includes instructions for installing np
 
 # Rock Paper Scissors Challenge
 
-This repository contains both a frontend and a backend for the classic Rock-Paper-Scissors game. The frontend is built with Node.js, and the backend is implemented in Python.
+This repository contains both a frontend and a backend for the classic Rock-Paper-Scissors game. The frontend is built with React.js, and the backend is implemented in Python.
 
 ## Project Structure
 
